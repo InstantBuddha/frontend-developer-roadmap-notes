@@ -4,6 +4,8 @@
   - [IP](#ip)
   - [IP addresses (IPv4)](#ip-addresses-ipv4)
   - [IPv6](#ipv6)
+  - [DNS servers and DNS lookup](#dns-servers-and-dns-lookup)
+  - [DNS record types](#dns-record-types)
   - [DNS spoofing](#dns-spoofing)
   - [Routers and packets](#routers-and-packets)
   - [TCP (Transmission Control Protocol)](#tcp-transmission-control-protocol)
@@ -51,6 +53,16 @@ For convenience, leading zeros in each group can be omitted, and consecutive gro
 2001:db8:85a3::8a2e:370:7334
 ```
 This address identifies a unique device on the IPv6 network, similar to how an IPv4 address identifies a device on an IPv4 network.
+
+## DNS servers and DNS lookup
+
+[A good article about the topic](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
+
+## DNS record types
+
+[A fun page to learn about DNS](https://messwithdns.net/)
+
+[See my notes in an other markdown file](0101-messwithdns-notes.md)
 
 ## DNS spoofing
 
